@@ -1,0 +1,15 @@
+# 加载数据集
+data:
+  name:
+  train_num:
+  val_num:
+  path:
+  root:
+# 训练设置
+train:
+   batch_size:
+   device:
+# 日志打印
+log:
+loader:
+  type: ""
